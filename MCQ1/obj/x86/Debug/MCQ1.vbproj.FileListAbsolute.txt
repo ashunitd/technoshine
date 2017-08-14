@@ -1,0 +1,12 @@
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\bin\Debug\MCQ1.exe
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\bin\Debug\MCQ1.pdb
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\bin\Debug\MCQ1.xml
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\obj\x86\Debug\MCQ.Form1.resources
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\obj\x86\Debug\MCQ.Resources.resources
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\obj\x86\Debug\MCQ1.exe
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\obj\x86\Debug\MCQ1.xml
+C:\Users\Ashu\documents\visual studio 2010\Projects\MCQ1\MCQ1\obj\x86\Debug\MCQ1.pdb
+C:\Users\Ashu\Documents\Visual Studio 2010\Projects\MCQ1\MCQ1\obj\x86\Debug\MCQ.frmResult.resources

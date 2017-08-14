@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MCQ1", "MCQ1\MCQ1.vbproj", "{0080DF79-B944-4C20-9CDD-FD57E0C0948B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0080DF79-B944-4C20-9CDD-FD57E0C0948B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0080DF79-B944-4C20-9CDD-FD57E0C0948B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0080DF79-B944-4C20-9CDD-FD57E0C0948B}.Debug|x86.ActiveCfg = Debug|x86
+		{0080DF79-B944-4C20-9CDD-FD57E0C0948B}.Debug|x86.Build.0 = Debug|x86
+		{0080DF79-B944-4C20-9CDD-FD57E0C0948B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0080DF79-B944-4C20-9CDD-FD57E0C0948B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0080DF79-B944-4C20-9CDD-FD57E0C0948B}.Release|x86.ActiveCfg = Release|x86
+		{0080DF79-B944-4C20-9CDD-FD57E0C0948B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\bin\Debug\MCQ.exe
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\bin\Debug\MCQ.pdb
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\bin\Debug\MCQ.xml
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\obj\x86\Debug\MCQ.Form1.resources
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\obj\x86\Debug\MCQ.Resources.resources
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\obj\x86\Debug\MCQ.exe
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\obj\x86\Debug\MCQ.xml
+C:\Users\Ashu\AppData\Local\Temporary Projects\MCQ\obj\x86\Debug\MCQ.pdb
